@@ -34,10 +34,10 @@ Tech Stack:
 This application will be built with the PERN stack. It will use PosgreSQL as its database, Node.js
 and Express.js for its backend operations, and React for its front end components.
 
-## R2 - Dataflow Diagram
+## R2 - Dataflow Diagrams
 ![Profile Dataflow](docs/blog-page-dataflow.png)
 ![Blogs Dataflow](docs/profile-dataflow.png)
-![Dataflow]()
+![Classes_Dataflow](docs/classes-page-dataflow.png)
 
 ## R3 - Application Architecture Diagram
 ![Application Architecture Diagram](docs/aad.png)
