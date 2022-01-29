@@ -47,6 +47,9 @@ and Express.js for its backend operations, and React for its front end component
 
 ## R4/R6 - User Stories/Trello Screenshots
 https://trello.com/b/83a5vZmT/gyeme-project-board
+
+We have selected the Kandban planning methodology to adhere to for the duration of this project; as is visible from our trello board which uses a kanban style template. The Kanban methodology provides all team members with a transparent visual representation of the project's stage of development at all times, a way to reduce bottlenecking of features, or spending too much time on any given feature (because it limits the number of tickets in each development phase) and a way to easily edit existing tickets or add new ones. It also allows us to easily divide work between us in a flexible way.
+
 ### 21/01:
 ![Screenshot_1](docs/ts1.png)
 ### 27/01:
